@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = "1.3.6"
   s.summary = "Capybara driver for zombie in node.js"
 
-  s.add_runtime_dependency("capybara", "~> 0.4.1")
+  s.add_runtime_dependency("capybara", "~> 2.0.2")
   s.add_runtime_dependency("multi_json", "~> 1.7.2")
   s.add_runtime_dependency("childprocess", "~> 0.3.9")
 
